@@ -4,4 +4,4 @@
 - The run results are consistent with Figure 4 in the paper.
 
 
-![alt text](0410561.tif "Denoising comparison")
+![Figure 4](0410561.png)
